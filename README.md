@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Haroldzlz
+- 👋 Hi, I’m Ziliang Zhu @Haroldzlz
 - 👀 I’m interested in Deep Learning, Computer Vision and Natural Language Processing.
 - 🌱 I’m currently on CV tasks.
 <!--- 
